@@ -1,0 +1,1 @@
+Repository for learning JavaScript from the Skillbox platform
